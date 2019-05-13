@@ -4,28 +4,3 @@
         margin-top: 110px;
     }    
  }
-
-
-/* Carousel */
-h5{
-    color: #000;
-}
-
-
-.carousel-control-prev-icon,
-.carousel-control-next-icon {
-  width: 50px;
-  height: 50px;
-}
-
-.carousel-control-prev-icon {
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Left_arrow.svg/715px-Left_arrow.svg.png");
-}
-  
-.carousel-control-next-icon {
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Right_arrow.svg/1221px-Right_arrow.svg.png");
-}
-
-.carousel-indicators .active {
-    background-color: #000;
-}
