@@ -389,3 +389,12 @@ iframe{
   height: 450;
   border: 0; 
 }
+
+video{
+  width: 853;
+  height: 480;
+}
+
+.next-line{
+  margin-top: 50px;
+}
