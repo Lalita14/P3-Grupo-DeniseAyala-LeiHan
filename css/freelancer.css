@@ -385,14 +385,14 @@ a:focus, a:hover, a:active {
 }
 
 iframe{
-  width: 600; 
-  height: 450;
+  width: 600px; 
+  height: 350px;
   border: 0; 
 }
 
 video{
-  width: 853;
-  height: 480;
+  width: 853px;
+  height: 480px;
 }
 
 .next-line{
